@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbac627-af85-44c4-a733-5e3535082681" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcoder/NC103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcoder/NC141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcoder/NC65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nowcoder/NC101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nowcoder/NC107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/algorithm/nowcoder/NC151.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/algorithm/nowcoder/NC151.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +41,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC141.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC101.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC107.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="42" column="37" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="42" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -69,6 +97,9 @@
         <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC65.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC151.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC141.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC101.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC107.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/NC38.java" />
       </list>
     </option>
   </component>
@@ -141,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628070259350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628157582612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,9 +193,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NC151">
-    <configuration name="NC103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.NC103" />
+  <component name="RunManager" selected="Application.NC107">
+    <configuration name="NC101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.NC101" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -178,6 +209,19 @@
     </configuration>
     <configuration name="NC103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder.NC103" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NC107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.NC107" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -217,15 +261,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.NC103" />
-      <item itemvalue="Application.NC103" />
       <item itemvalue="Application.NC65" />
       <item itemvalue="Application.NC151" />
+      <item itemvalue="Application.NC101" />
+      <item itemvalue="Application.NC107" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NC107" />
+        <item itemvalue="Application.NC101" />
         <item itemvalue="Application.NC151" />
         <item itemvalue="Application.NC65" />
-        <item itemvalue="Application.NC103" />
         <item itemvalue="Application.NC103" />
       </list>
     </recent_temporary>
@@ -240,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628062161270</updated>
-      <workItem from="1628062162786" duration="6992000" />
+      <workItem from="1628062162786" duration="17484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6992000" />
+    <option name="totallyTimeSpent" value="17484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -256,7 +302,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run with VisualVM" />
       <window_info anchor="bottom" id="Terminal" />
@@ -268,7 +314,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -349,8 +395,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC141.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/NC38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
