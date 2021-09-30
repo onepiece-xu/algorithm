@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.introduction;
 
 /**
  * NC101 缺失数字

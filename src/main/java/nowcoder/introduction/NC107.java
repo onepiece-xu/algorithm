@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.introduction;
 
 /**
  * NC107 寻找峰值

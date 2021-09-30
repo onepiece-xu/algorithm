@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.introduction;
 
 /**
  * NC103 反转字符串

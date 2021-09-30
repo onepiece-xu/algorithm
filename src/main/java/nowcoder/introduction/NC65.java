@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.introduction;
 
 /**
  * NC65 斐波那契数列

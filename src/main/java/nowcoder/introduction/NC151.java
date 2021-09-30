@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.introduction;
 
 /**
  * NC151 最大公约数
